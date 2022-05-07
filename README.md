@@ -1,2 +1,2 @@
 # About
-SNHU CS330 that teaches students **modern OpenGL** (currently enrolled)
+SNHU CS330 course that teaches students **modern OpenGL** (currently enrolled)
